@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Prateek Chaturvedi
-* **Registration Number:** 24BCE10168
+* **Name:** Aakansha
+* **Registration Number:** 24BCE10754
 * **Course:** Open Source Software
 
 ---
