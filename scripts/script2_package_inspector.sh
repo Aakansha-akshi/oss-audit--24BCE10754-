@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Prateek Chaturvedi
+# Author: Aakansha
 
 PACKAGE="linux-image-amd64"   # Package for Linux Kernel in Kali/Debian
 
